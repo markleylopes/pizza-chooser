@@ -1,9 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
+const Ateste = () => <></>;
 function App() {
+  const a = "";
   return (
     <div className="App">
+      <Ateste />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
