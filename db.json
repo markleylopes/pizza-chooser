@@ -1,0 +1,44 @@
+{
+  "suggestion": {
+    "size": "Grande",
+    "dough": "Napolitana",
+    "edge": "Tradicional",
+    "topping": "Frango com catupiry",
+    "price": 29,
+    "points": 50,
+    "ingredients": ["Frango", "Orégano", "Tomate"]
+  },
+  "doughs": [
+    { "value": "Nova-iorquina", "description": "d1" },
+    { "value": "Siciliana", "description": "d3" },
+    { "value": "Napolitana", "description": "d4" }
+  ],
+  "sizes": [
+    { "value": "Pequena" },
+    { "value": "Média" },
+    { "value": "Grande" }
+  ],
+  "edges": [
+    { "value": "Tradicional" },
+    { "value": "Gergelim" },
+    { "value": "Catupiry" },
+    { "value": "Cheddar" }
+  ],
+  "toppings": [
+    {
+      "value": "Calabresa",
+      "ingredients": ["Calabresa", "Orégano"]
+    },
+    { "value": "Portuguesa" },
+    { "value": "Marguerita" },
+    { "value": "Frango com catupiry" },
+    { "value": "Muçarela" },
+    { "value": "Napolitana" },
+
+    { "value": "Brigadeiro" },
+
+    { "value": "Romeu e Julieta" },
+
+    { "value": "Creme de avelã com frutas" }
+  ]
+}
