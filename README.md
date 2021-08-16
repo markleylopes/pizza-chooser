@@ -26,20 +26,15 @@ Execute os seguintes comandos para executar o projeto
 Para rodar os testes execute `npm test`
 
 ## Estrutura dos componentes
-
-src
-├── api
-├── assests
-├── components
-├── contexts
-├── layouts
-├── pages
-
 **api** - Requisições web
+
 **assests** - Recursos de imagem
+
 **contexts** - Contextos react
 **components** - Componentes gerais (Header, Card)
+
 **layouts** - Componentes de layout
+
 **pages** - Componentes de página
 
 ## Mock de dados
