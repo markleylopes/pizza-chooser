@@ -27,18 +27,33 @@
   "toppings": [
     {
       "value": "Calabresa",
-      "ingredients": ["Calabresa", "Orégano"]
+      "ingredients": ["Calabresa", "Orégano", "Queijo"]
     },
-    { "value": "Portuguesa" },
-    { "value": "Marguerita" },
-    { "value": "Frango com catupiry" },
-    { "value": "Muçarela" },
-    { "value": "Napolitana" },
+    {
+      "value": "Portuguesa",
+      "ingredients": ["Ovo", "Presunto", "Orégano", "Queijo"]
+    },
+    {
+      "value": "Marguerita",
+      "ingredients": ["Tomate", "Manjericão", "Queijo"]
+    },
+    {
+      "value": "Frango com catupiry",
+      "ingredients": ["Frango", "Orégano", "Catupiry"]
+    },
+    { "value": "Muçarela", "ingredients": ["Tomate", "Queijo"] },
+    {
+      "value": "Napolitana",
+      "ingredients": ["Tomate", "Queijo", "Alho", "Azeite"]
+    },
 
-    { "value": "Brigadeiro" },
+    { "value": "Brigadeiro", "ingredients": ["Chocolate", "Queijo"] },
 
-    { "value": "Romeu e Julieta" },
+    { "value": "Romeu e Julieta", "ingredients": ["Goiabada", "Queijo"] },
 
-    { "value": "Creme de avelã com frutas" }
+    {
+      "value": "Creme de avelã com frutas",
+      "ingredients": ["Avelã", "Mix de frutas cristalizadas"]
+    }
   ]
 }
